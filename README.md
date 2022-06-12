@@ -7,4 +7,4 @@ Data analysis from stock exchange for financial decision purposes.
   
 
 # Problem
-Understand stock tickers from ther ecommerce market avaiable on the stock exchange of NYSE / NASDAQ / Bovespa
+Understand stock tickers from ther ecommerce market available on the stock exchange of NYSE / NASDAQ / Bovespa
